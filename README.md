@@ -8,7 +8,7 @@
 <b>Currently, I am pursuing the CompTIA Security+ certification and will then commence the Cisco Certified Network Associate (CCNA) certification.</b>
 
 <b>📑 Certifications</b>
-  - <b>Cyber Security: LetsDefend SOC Analyst Learning Path | Google Cybersecurity Certificate</b>
+  - <b>Cyber Security: LetsDefend SOC Analyst Learning Path | Google Cybersecurity Certificate | CompTIA Security+ (Est. March 2026)</b>
   - <b>Information Technology: Google IT Support Certificate | Microsoft IT Support Specialist Certificate.</b>
 
 <b>👨‍💻 Projects</b>
