@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm James!</h1>
 
-<!--
-**jamesfender/jamesfender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🛡️ I am an aspiring Cyber Security Professional</h2>
 
-Here are some ideas to get you started:
+<b>About Me</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>I am an cyber security university student, with a strong academic foundation and a passion for defensive security.<b/> Alongside my studies, I have ventured into the IT domain and gained experience in IT support and customer service.</b>
+<b>Currently, I am pursuing the CompTIA Security+ certification and will then commence the Cisco Certified Network Associate (CCNA) certification.</b>
+
+<b>📑 Certifications</b>
+  - <b>Cyber Security: LetsDefend SOC Analyst Learning Path | Google Cybersecurity Certificate</b>
+  - <b>Information Technology: Google IT Support Certificate | Microsoft IT Support Specialist Certificate.</b>
+
+<b>👨‍💻 Projects</b>
+
+<b>Azure and Microsoft Sentinel SOC Lab (Attacker Geographical Location Map | Security Analysis and Incident Response) (Publishing soon)</b>
