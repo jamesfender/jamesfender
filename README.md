@@ -13,4 +13,4 @@
 
 <b>👨‍💻 Projects</b>
 
-<b>Azure and Microsoft Sentinel Honeypot SOC Lab (Attacker Geographical Location Map | Security Analysis and Incident Response) (Publishing soon)</b>
+- [Azure and Microsoft Sentinel Honeypot SOC Lab (Attacker Geographical Location Map | Security Analysis and Incident Response)](https://github.com/jamesfender/Azure-and-Microsoft-Sentinel-Honeypot-SOC-Lab)
